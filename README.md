@@ -29,11 +29,13 @@ end.
 В командной строке, находясь в папке pascal-app, выполнить:
 
 docker build -t pascal-app .
-[1](foto1.jpg)
+<img width="1067" height="245" alt="foto1" src="https://github.com/user-attachments/assets/686619dc-b674-41b5-b0c5-fb3c59a2127e" />
+
 
 Флаг -t задает имя образа
 
 Создание и запуск контейнера:
 
-docker run --rm pascal-app
+docker run --rm pascal-app<img width="947" height="246" alt="foto2" src="https://github.com/user-attachments/assets/1c073a8e-805a-43e2-a4be-2302262e661f" />
+
 
