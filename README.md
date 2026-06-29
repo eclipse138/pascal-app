@@ -2,9 +2,9 @@
 Воротилин Владимир Александрович 28Ипо8381
 
 # 1. Структура проекта
-pascal-app/
-├── Dockerfile
-└── hello.pas
+# pascal-app/
+# ├── Dockerfile
+# └── hello.pas
 
 2. Содержимое файла Dockerfile
 #Используем официальный образ с Free Pascal на Ubuntu
