@@ -29,6 +29,7 @@ end.
 В командной строке, находясь в папке pascal-app, выполнить:
 
 docker build -t pascal-app .
+[1](foto1.jpg)
 
 Флаг -t задает имя образа
 
