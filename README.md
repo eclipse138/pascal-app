@@ -45,14 +45,16 @@ end.
 
 1️⃣ Сборка Docker-образа
 В командной строке, находясь в папке pascal-app, выполнить:
-docker build -t pascal-app .
-https://github.com/user-attachments/assets/686619dc-b674-41b5-b0c5-fb3c59a2127e
+```docker build -t pascal-app .```
+<img width="1067" height="245" alt="foto1" src="https://github.com/user-attachments/assets/95534a52-2719-4fea-b3f3-275da532e504" />
+
 
 2️⃣ Создание и запуск контейнера
-docker run --rm pascal-app
+```docker run --rm pascal-app```
 Флаг --rm автоматически удаляет контейнер после завершения работы.
 ✅ Результат выполнения
-https://github.com/user-attachments/assets/1c073a8e-805a-43e2-a4be-2302262e661f
+<img width="947" height="246" alt="foto2" src="https://github.com/user-attachments/assets/0af17074-13f7-4dff-89ea-11dd1f4aec4a" />
+
 
 
 
